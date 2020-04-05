@@ -1,0 +1,10 @@
+.flake8
+.mypy_cache/
+.pyre/
+.pyre_configuration
+.vscode/
+**/__pycache__/
+env/
+**/node_modules/
+**/*.egg-info/
+package-lock.json
